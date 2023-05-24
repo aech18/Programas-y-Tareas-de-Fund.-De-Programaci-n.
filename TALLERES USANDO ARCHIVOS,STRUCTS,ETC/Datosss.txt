@@ -1,0 +1,9 @@
+8
+Maria Alfonzo 25 60 1.50
+Jose Galea 30 90 1.70
+Ana Rodriguez 63 40 1.65
+Zoraida Bonilla 72 90 1.68
+Juan Martinez 44 60 1.73
+Carlos Perez 57 95 1.82
+Victoria Marcano 36 65 1.58
+Julio Castillo 50 120 1.7
